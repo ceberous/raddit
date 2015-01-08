@@ -36,6 +36,7 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
+    acts_as_votable (0.10.0)
     arel (6.0.0)
     autoprefixer-rails (4.0.2.2)
       execjs
@@ -167,6 +168,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  acts_as_votable
   autoprefixer-rails
   bootstrap-sass
   coffee-rails (~> 4.1.0)

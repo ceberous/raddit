@@ -10,6 +10,7 @@ gem 'sqlite3'
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
+gem 'acts_as_votable'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
