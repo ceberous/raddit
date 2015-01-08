@@ -7,4 +7,8 @@ class User < ActiveRecord::Base
   has_many :links
 
   
+  def name
+    	"basic user"
+  end
+
 end
